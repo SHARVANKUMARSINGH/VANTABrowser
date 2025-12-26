@@ -1,28 +1,42 @@
-## 🛠️ Download & Installation
+# 🌌 VANTA Browser v1.3 (26/12/2025)
 
-**GitHub Release (Recommended):**  
-[Download VANTA Browser v1.3](https://github.com/SHARVANKUMARSINGH/VANTABrowser/releases/tag/BORSWER)  
+**The High-Performance Gaming Browser built on .NET 6 & WebView2**  
 
-**SHA-256 Checksum:**  
-`88ae0b18aa4320219139bbaae1e36b839878b70c105f9bb13b51ff4af626a072`
+> 🚀 **Version 1.3 – Fully Working, Beta Stable**
 
----
-
-### ✅ Quick Start
-
-1. Download `VANTA-Browser.exe` from the link above.  
-2. Double-click the file to launch — **no installation needed**.  
+![VANTA Browser Banner](ban.png)
 
 ---
 
-### 🛡️ Optional: Verify File Integrity
+## 🚀 Features
 
-If you want to make sure your download is **authentic and untampered**, you can verify the SHA-256 checksum:
+VANTA Browser is designed for speed, aesthetics, and gamers who need a lightweight alternative to Chrome.
 
-**On Windows:**
+* **⚡ Neon GX UI:** Stunning dark mode interface with cyan neon accents.  
+* **📉 Data Saver Mode:** Blocks images to save bandwidth and load pages faster.  
+* **📶 Live Ping Monitor:** Real-time latency tracking shown in the toolbar.  
+* **🏠 Custom Home Page:** Built-in "Speed Dial" with quick links to YouTube, Reddit, Twitch, and Discord.  
+* **📂 Multi-Tab System:** Tabs you can open and close easily.  
+* **🔒 Privacy Focused:** No tracking, no ads, just browsing.  
+* **⬇️ WORKING DOWNLOAD:** Safe and ready to use!  
 
-1. Press `Win + X` → Open **Windows PowerShell**  
-2. Navigate to the folder where `VANTA-Browser.exe` is located using `cd`:
+---
 
-```powershell
-cd "C:\Users\YourName\Downloads"
+## 🛠️ Download & Run
+
+**Step 1:** Go to the [GitHub Release](https://github.com/SHARVANKUMARSINGH/VANTABrowser/releases/tag/BORSWER)  
+
+**Step 2:** Download `VANTA-Browser.exe`.  
+
+**Step 3:** Double-click to launch — **no installation needed**.  
+
+---
+
+### 🛡️ Optional: Verify SHA-256 (Super Simple)
+
+1. Open **Windows PowerShell**.  
+2. Go to the folder where `VANTA-Browser.exe` is:  
+
+---
+*Made with ❤️ by kyugivj and (gemini for picture)*
+
