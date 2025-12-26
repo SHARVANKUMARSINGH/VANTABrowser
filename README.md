@@ -1,6 +1,6 @@
-# 🌌 VANTA Browser V 1.3 NEW 12/26/2025 
-**The High-Performance Gaming Browser built on .NET 6 & WebView2**            **TELL ME IF ALL NEEDED WORKING DOWNLOADING FILES UPDATE IT IS BEATA 1.0**
-  
+# 🌌 VANTA Browser V 1.3 NEW 26/12/2025 ** DD/MM/YY
+**The High-Performance Gaming Browser built on .NET 6 & WebView2**            #😔OLD **TELL ME IF ALL NEEDED WORKING DOWNLOADING FILES UPDATE IT IS BEATA 1.0**
+                                                                              #🚀NEW ** 1.3 NEW ALL WORKING 
 ![Nox Browser Banner](ban.png)
 
 ## 🚀 Features
