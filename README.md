@@ -17,7 +17,7 @@ Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight
 * **📂 Multi-Tab System:** Fully functional tab management with "Click-to-Close" convenience.
 * **🔒 Privacy Focused:** No telemetry, no tracking, just browsing.
 * **⬇️ WORKING DOWNLOAD IS HERE 
-**The High-Performance Gaming Browser built on .NET 6 & WebView2**            #😔OLD **TELL ME IF ALL NEEDED WORKING DOWNLOADING FILES UPDATE IT IS BEATA 1.0**
+**The High-Performance Gaming Browser built on .NET 6 & WebView2**            
                                                                               #🚀NEW ** 1.3 NEW ALL WORKING 
 ![Nox Browser Banner](ban.png)
 
