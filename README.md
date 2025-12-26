@@ -1,8 +1,11 @@
 # 🌌 VANTA Browser V 1.3 NEW 26/12/2025 ** DD/MM/YY
 **The High-Performance Gaming Browser built on .NET 6 & WebView2**            
-  #🚀NEW ** 1.3 NEW ALL WORKING 
+       #🚀NEW ** 1.3 NEW ALL WORKING 
+
                                                                             
 ![Nox Browser Banner](ban.png)
+
+
 
 ## 🚀 Features
 Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight alternative to Chrome.
